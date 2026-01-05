@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f3f5;
+  padding: 40px;
+}
+
+.tabs {
+  max-width: 400px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.tab-buttons button {
+  margin-right: 5px;
+  padding: 6px 10px;
+}
+
+.tab-content {
+  display: none;
+  margin-top: 15px;
+}
